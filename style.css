@@ -168,10 +168,6 @@ body {
     color: #ffffff;
 }
 
-/* #time div:nth-child(2)::after {
-    animation: animate 1s steps(1) infinite;
-} */
-
 @keyframes animate {
     0% {
         opacity: 1;
